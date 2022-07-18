@@ -6,4 +6,5 @@ payment process="cod or credit or debit";
 
 {
 sysout"place order ";
+sysout""thank you ";
 }
