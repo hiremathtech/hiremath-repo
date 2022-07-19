@@ -11,5 +11,9 @@ sysout""thank you ";
 
 sysout"visit again"
 }
-open homepage again 
+open homepage again
+
+jai hindi 
+jai karnataka
+
 
