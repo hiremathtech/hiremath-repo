@@ -1,9 +1,2 @@
 mango
 apple
-orange
-bannaa
-grapes
-promogranet
-vijay
-hiremath
-bhendigeri
