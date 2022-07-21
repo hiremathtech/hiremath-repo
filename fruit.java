@@ -3,4 +3,4 @@ apple
 jana priya vastu idu
 
 
-khle indi university games
+khelo india university games
